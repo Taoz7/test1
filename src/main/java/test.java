@@ -5,5 +5,6 @@ public class test {
         System.out.println("hot!");
         System.out.println("hello git3!");
         System.out.println("push!");
+        System.out.println("pull!");
     }
 }
